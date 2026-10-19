@@ -1,0 +1,10 @@
+anthropic
+langchain-anthropic
+langchain-mcp-adapters
+langgraph
+streamlit
+pypdf
+pymupdf
+sentence-transformers
+python-dotenv
+numpy
